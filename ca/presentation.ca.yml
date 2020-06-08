@@ -442,3 +442,55 @@ person.wealth_financial_state: Riquesa i estat financer
 person.rpg_character_sheet: Fitxa de personatge de rol
 person.divine_classification: Classificació divina
 person.alignment: Alineament
+explore: Explora
+organization.tree: Organigrama
+location.florafauna: Flora i fauna
+person.current_location: Localització actual
+person.species: Espècie
+organisation.familyleader: Cap de família
+organisation.official_religion: Religió oficial
+person.conditions: Condicions
+person.ethnicity: Ètnia
+person.realm: Regne
+person.church_cult: Església/culte
+person.honorary_occupational_titles: Títols honoraris i ocupacionals
+person.previously_held_ranks_titles: Títols i rangs prèviament ostentats
+person.currently_held_titles: Títols actualment ostentats
+person.life: Vida
+person.year_of_birth: Any de naixement
+person.year_of_death: Any de mort
+person.circumstances_of_birth: Circumstàncies de naixement
+person.circumstances_of_death: Circumstàncies de mort
+person.birthplace: Lloc de naixement
+person.current_residence: Residència actual
+person.biological_sex: Sexe
+person.sexuality: Sexualitat
+person.eyes: Ulls
+person.skin: To de pell
+person.gender_identity: Identitat de gènere
+person.hair: Cabells
+person.quotes_catchphrases: Citacions i frases cèlebres
+person.height: Alçada
+person.weight: Pes
+person.aligned_organization: Organització afí
+person.known_languages: Llengües conegudes
+person.other_affiliations: Altres afiliacions
+person.related_myths: Mites relacionats
+person.appears_in: Apareix a...
+person.character_prototype: Prototip de personatge
+plot.summary: Resum
+plot.plot_points_scenes: Punts de la trama o escenes
+plot.falling_action: Acció decreixent
+plot.themes: Temes
+plot.exposition: Exposició
+plot.conflict: Conflicte
+plot.rising_action: Acció creixent
+plot.climax: Clímax
+plot.resolution: Resolució
+plot.structure: Estructura
+plot.components: Components
+plot.goals: Objectius
+plot.hooks: Ganxos
+plot.stakes: Riscs
+plot.moral_quandaries: Dilemes morals
+plot.cruel_tricks: Trucs cruels

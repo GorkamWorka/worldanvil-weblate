@@ -70,5 +70,37 @@ identifier: Identificador
 studio.templates: 'Estudi del creador: plantilles d''article'
 theme: Tema
 publication.date: Data de publicacó
-welcome: Benvingut
+welcome: Hola
 community: Comunitat
+upcoming.streams: Directes futurs
+dismiss: Tanca
+join.discord: Uniu-vos al nostre Discord
+join.discord.description: Col·laboreu en el desenvolupament de World Anvil, participeu
+  en competicions de creació de mons, guanyeu premis i medalles!
+join.worldanvil.cta: Uniu-vos al Gremi de Worldbuilders
+dashboard.page.title: Taulell general
+goto.articles.list: Aneu a la llista d'articles
+goto.account: Aneu a detalls del compte
+dashboard.create.first: Creeu el vostre primer mon!
+dashboad.cta: MANS A LA FEINA
+dashboard.features.mistake: Heu activat funcions de worldbuilding per error?
+dashboard.manage.features: Administreu les vostres funcions activades
+dashboard.news: Novetats
+dashboard.events: Esdeveniments
+dashboard.worlds: Els vostres mons
+dashboard.characters: Els vostres personatges
+dashboard.campaigns: Les vostres campanyes
+dashboard.communities: Les vostres comunitats
+dashboard.dev.updates: Novetats de desenvolupament
+dashboard.videos: Vídeos recents
+dashboard.in.news: Notícies
+dashboard.podcast.cta: Escolteu el nostre podcast de worldbuilding
+dashboard.worldbuilding.disabled: Les funcions de worldbuilding estan desactivades
+dashboard.continue: Continueu escrivint
+dashboard.recent.articles: Articles més recents
+dashboard.worlds.max: Heu assolit el vostre màxim de mons
+dashboard.help.grow: Ajudeu-nos a mantenir i fer créixer World Anvil!
+dashboard.upcoming.stream: Propers directes i esdeveniments
+dashboard.upcoming.sessions: Properes sessions
+dashboard.followed.characters: Personatges que seguiu
+dashboard.followed.worlds: Mons que seguiu

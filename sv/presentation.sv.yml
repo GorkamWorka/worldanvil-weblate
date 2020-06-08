@@ -1,2 +1,173 @@
 timeline: Tidslinje
 timelines: Tidslinjer
+author.notes: Författarens anteckningar
+follow: Följ %name%
+following: Följer %name%
+join.discord.world: Gå med %worldname%s Discord!
+support.kofi.user: Bjud %username% på kaffe!
+support.patreon.user: Stöd %username% på Patreon
+support.patreon: Stöd projektet på Patreon
+twitch.live: Titta live på Twitch
+recent.articles: Senaste artiklar
+secrets: Hemligheter
+followers.all: Se alla följare
+toc: Innehållsförteckning
+in: i
+created.by: Skapat av
+account.create: Skapa ditt konto
+tweets.by: Tweets av
+uncategorized.articles: Okategoriserade artiklar
+articles: Artiklar
+image.gallery: Bildgalleri
+maps: Kartor
+heroes: Hjältar
+campaigns: Kampanjer
+followers: Följare
+follow.action.add: FÖLJ
+follow.action.unfollow.world: Sluta följa Världen
+follow.action.remove: SLUTA FÖLJA
+follow.action.add.description: Följ för att visa alla artiklar skrivna av världsförfattaren!
+like.action.add: GILLA
+like.action.add.description: Låt författaren veta att du gillade deras arbete. Denna
+  artikel kommer INTE läggas i din läs-senare-samling
+reading.action.remove: TA BORT FRÅN LÄSLISTAN
+like.action.remove: ''
+reading.action.add: LÄGG TILL I LÄSLISTAN
+article.likes.number: Denna artikel är gillad av %number% världsbyggare
+article.love: De som älskade din artikel
+alternativenames: Alternativa namn
+reading.action.add.description: Lägg till den här artikeln till din läs-senare, eller
+  sparade artiklar. Författaren kommer INTE bli informerad.
+goto.homepage: Gå till %name%s startsida
+article.visibility: Denna artikel kan ses av följande prenumerantgrupper
+author.movies: Favoritfilmer
+author.interests: Intressen & Hobbys
+history: Historia
+author.page: Författarens sida
+authors: Författare
+players.full: Denna kampanj är full
+players.looking: Letar efter spelare
+author.since: Medlem sedan
+author.games: Favoritspel
+author.writers: Favoritförfattare
+author.books: Favoritböcker
+campaign.storytellers: Denna historia är berättad av
+campaign.world: I %world_name%s värld
+author.badges: Märken & Medaljer
+campaign.system: Ett %system_name%-spel
+author.characters: Karaktärer
+author.worlds: Världar
+author.comments: Kommentarer & feedback
+campaign.watchlive: Se kampanjen live på Twitch
+campaign.protagonists: Huvudpersonerna
+campaign.sessions_archive: Sessionsarkiv
+campaign.sessions: Sessionslista
+campaign.support.patreon: Stöd denna kampanj på Patreon
+campaign.playedby: Spelad av
+campaign.full: Full
+campaign.lfp: Letar efter Spelare
+campaign.journal.session.report: Sessionsrapport
+campaign.supporting.cast: Biroller
+campaign.maps_and_timelines: Kartor & Tidslinjer
+campaign.journal.character: Karaktär
+campaign.journal.player: Spelare
+campaign.journal.campaign: Kampanj
+campaign.journal.world: Värld
+campaign.maps: Kartor
+campaign.timelines: Tidslinjer
+campaign.setting: Settingen
+campaign.allies: Allierade
+campaign.adversaries: Motståndare
+campaign.session.live: LIVE
+campaign.sessions.past: Tidigare sessioner
+campaign.sessions.scheduled: Planerade sessioner
+campaign.neutral: Neutrala parter
+condition.symptoms: Symptom
+condition.causes: Orsaker
+campaign.explore.world: Utforska %world_name%s värld
+condition.treatment: Behandling
+condition.sequela: 'Följdtillstånd'
+condition.prognosis: Prognos
+condition.hosts: Värdar & smittobärare
+condition.affectedgroups: Påverkade grupper
+condition.prevention: Förebyggande
+condition.epidimiology: Epidemiologi
+condition.reception: Kulturellt mottagande
+condition.origin: Härkomst
+condition.cycle: Cykler
+condition.rarity: Sällsynthet
+condition.species: Påverkade arter
+document.purpose: Ändamål
+document.structure: Dokumentstruktur
+document.caveats: Varningar
+document.references: Referenser
+document.publication.status: Publiceringsstatus
+document.legal.status: Juridisk status
+document.historical.details: Historiska detaljer
+document.background: Bakgrund
+document.history: Historia
+document.public.reaction: Offentlig reaktion
+document.legacy: Arv
+document.modal.read.document: Läs dokumentet
+document.modal.close: Stäng
+document.article.medium: Medium
+document.article.myth: Myt
+document.article.authoringdate: Författardatum
+document.article.ratificationdate: Ratificeringsdatum
+document.article.expirationdate: Utgångsdatum
+document.article.location: Plats
+document.article.authors: Författare
+document.article.signatoriescharacters: Undertecknare (Karaktärer)
+document.article.signatoriesorganizations: Undertecknare (Organisationer)
+ethnicity.naming.traditions: Namngivningstraditioner
+ethnicity.major.lang.groups.dialects: Officiella språkgrupper och dialekter
+ethnicity.culture.cultural.heritage: Kultur och kulturarv
+ethnicity.shared.customary.codes.values: Delade oskrivna regler och värderingar
+ethnicity.other.names: Andra namn
+ethnicity.feminine.names: Feminina namn
+ethnicity.masculine.names: Maskulina namn
+ethnicity.family.names: Familjenamn
+ethnicity.culture: Kultur
+ethnicity.Average.technological.level: Genomsnittlig teknologisk nivå
+ethnicity.common.etiquette.rules: Vanliga etikettregler
+ethnicity.common.dress.code: Vanlig klädkod
+ethnicity.art.architecture: Konst & arkitektur
+ethnicity.common.customs.traditions.rituals: Vanliga seder, traditioner och ritualer
+ethnicity.birth.baptismal.rites: Födsel- och dopseder
+ethnicity.common.myths.legends: Vanliga myter och legender
+ethnicity.historical.figures: Historiskt viktiga personer
+ethnicity.ideals: Ideal
+ethnicity.common.taboos: Vanliga tabun
+ethnicity.beauty.ideals: Skönhetsideal
+ethnicity.major.organizations: Viktiga organisationer
+formation.manpower: Arbetskraft
+formation.equipment: Utrustning
+formation.weaponry: Vapenförråd
+formation.vehicles: Fordon
+formation.tactics: Strategier
+formation.training: Träning
+formation.upkeep: Underhåll
+formation.recruitment: Rekrytering
+formation.history: Historia
+formation.historical.loyalties: Historiska lojaliteter
+formation.sidebar.type: Typ
+formation.sidebar.founding: Grundande
+formation.sidebar.dissolution: Upplösning
+formation.sidebar.overall.training.level: Övergripande träningsnivå
+formation.sidebar.usedby: Använd av
+item.manufacturing.process: Tillverkningsprocess
+item.significance: Betydelse
+item.sidebar.subtype.model: Subtyp / Modell
+item.sidebar.usedby: Använd av
+item.sidebar.manufacturer: Tillverkare
+item.sidebar.related.condition: Relaterade tillstånd
+item.sidebar.rarity: Sällsynthet
+item.sidebar.weight: Vikt
+item.sidebar.dimensions: Dimensioner
+item.sidebar.base.price: Grundpris
+landmark.purpose: Syfte / Funktion
+landmark.design: Design
+landmark.denizens: Invånare
+item.sidebar.rawmaterials.components: Råmaterial och komponenter
+item.sidebar.tools: Verktyg
+item.sidebar.related.myths: Relaterade myter

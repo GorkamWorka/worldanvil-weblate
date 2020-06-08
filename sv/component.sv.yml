@@ -15,7 +15,7 @@ edit.block: Redigera Block
 edit.campaign: Redigera Kampanj
 edit.category: Redigera Kategori
 edit.historical.entry: Redigera Historisk Händelse
-edit.image: Redisgera Bild
+edit.image: Redigera Bild
 edit.player.character: Redigera spelarkaraktär
 edit.timeline: Redigera Tidslinje
 edit.map: Redigera karta
@@ -91,9 +91,9 @@ tags.description: Använd kommatecken för att separera dina taggar. Att lägga 
 group: Grupp
 tag.description: Använd kommatecken för att separera dina taggar. Att lägga till taggar
   till delar av innehåll hjälper dig att söka efter det via någon av taggarna.
-map.image: Kartans Primärbild
+map.image: Kartans huvudbild
 map.image.secondary: Lagerbild
-map.update.image: Updatera Kartans Primärbild
+map.update.image: Uppdatera kartans huvudbild
 map.edit.details: Redigera kartdetaljer
 map.image.details: De förväntade fildimensionerna är
 map.legend: Teckenförklaring
@@ -109,9 +109,9 @@ map.marker.new: Ny platsmarkör
 map.marker.drag: Dra mig för att sätta koordinaterna för den nya markören
 map.marker.fill: Fantastiskt! Fyll i formuläret här nedan nu!
 map.display.homepage: Visa denna karta på världens förstasida.
-guild.access: Alla föremål på ett gratis konto är allmänna. Gå med i  <a class="m-t-10
+guild.access: Alla föremål på ett gratis konto är allmänna. Gå med i <a class="m-t-10
   text-pink" href="/worldbuilders-guild-membership">Världsbyggargillet</a> för att
-  ge rättigheter till specifika prenumerations grupper tillgång till det innehåll
+  ge rättigheter till specifika prenumerationsgrupper att få tillgång till det innehåll
   du vill och hjälp till att utveckla World Anvil.
 guild.subscriber.groups: Prenumerantgrupper låter <a class="m-t-10 text-pink" href="/worldbuilders-guild-membership">Världsbyggargillet</a>
   ge lästillsånd för privata artiklar till medlemmar i den gruppen.
@@ -125,3 +125,143 @@ guild.access.map: Alla kartor på gratis konton visas på världens förstasida.
 item: Föremål
 world.view: Visa värld
 browse: Bläddra
+characters: Karaktärer
+pin.iconAnchor.description: Ankarpunkten är den unika pixelpunkt där din markör rör
+  kartan. Vanligtvis är det på kartesiska 0X och halva markörens bredd Y
+create.block.template: Skapa Blockmall
+create.pin: Skapa kartmarkör
+create.new.pin: Skapa en ny kartmarkör
+create.article: Skapa artikel
+edit.article: Redigera artikel
+create.new.block.template: Skapa ny blockmall
+edit.block.template: Redigera blockmall
+create.group: Skapa grupp
+create.code: Skapa kod
+create.new.era: Skapa en ny era
+create.new.historical.entry: Skapa ett nytt historiskt inlägg
+delete.marker: Radera markör
+delete.marker.group: Radera markörgrupp
+layer: Lager
+delete.layer: Radera lager
+edit.pin: Redigera kartmarkör
+delete.pin: Radera kartmarkör
+circle: Cirkel
+label: Etikett
+line: Linje
+delete.block.template: Radera blockmall
+block.template: Blockmall
+edit.group: Redigera grupp
+delete.group: Radera grupp
+view.world: Se värld
+deete.code: Radera kod
+link: Öppnar en ny sida
+marker: Markör
+marker.group: Markörgrupp
+polygon: Polygon
+popup: Öppnar en popup
+list.historical.entries: Lista över historiska inlägg
+block.templates: Blockmall
+list.block.templates: Blockmallslista
+subscriber: Prenumerant
+groups: Grupper
+world.summary: Sammanfattning
+list.characters: Karaktärslista
+world.explore: Utforska
+events: Historiska händelser
+calendars: Kalendrar
+list.categories: Kategorilista
+list.articles: Artikellista
+list.blocks: Blocklista
+list.campaigns: Kampanjlista
+markers: Markörer
+marker.groups: Markörgrupper
+layers: Lager
+list.images: Bildlista
+list.player.characters: Lista över spelarkaraktärer
+list.maps: Kartlista
+list.timelines: Tidslinjelista
+list.notes: Anteckningslista
+list.secrets: Hemlighetslista
+list.worlds: Världslista
+list.markers: Markörlista
+list.marker.groups: Markörgruppslista
+related.category: Relaterad kategori
+related.location: Relaterad plats
+related.map: Relaterad karta
+related.organization: Relaterad organisation
+list.layers: Lagerlista
+list.pins: Kartmarkörlista
+list.subscribers: Prenumeranter
+related.article: Relaterad artikel
+related.history: Relaterad historisk händelse
+position.description: Vikt är ett nummer som definierar i vilken ordning ett föremål
+  kommer att visas i en lista. Ju högre numret är desto högre visas det i listan.
+status.description: 'Gör den här artikeln offentlig för alla att se. Privata artiklar
+  är bara synliga för dig och medförfattaren, samt prenumeranter med rätt tillstånd'
+position: Position/Vikt
+access: Åtkomst
+access.description: Gör inlägget offentligt för alla att se. Privata inlägg är bara
+  synliga för dig och medförfattare till din värld
+map.compass.description: Välj den bild som kommer att visas som kompassros i din kartas
+  nedre högra kant. Använd en bild med transparent bakgrund för bättre visuellt resultat.
+map.compass: Kompassrosbild
+map.presentation: Öppna presentationsläge
+map.settings: Kartinställningar
+map.zoom.initial: Inledande zoomlevel
+map.thumbnail: Miniatyrbild
+map.zoom.initial.description: Ställ in hur inzoomad kartan kommer vara när den först
+  öppnas. (0 är standard)
+map.zoom.min: Minsta tillåtna zoom
+map.zoom.max: Största tillåtna zoom
+map.zoom.max.description: Hur långt in/djupt du kan zooma in. 0 innebär att zoomen
+  är 1:1 ratio av kartan. Allting över 0 betyder att bilden kommer börja bli oskarp.
+  (0 är Standard)
+map.center.description: De inledande koordinaterna för kartans centralpunkt när den
+  först laddas. Vanligtvis räknas detta till kartans mitt. Kartans nedre vänstra hörn
+  är punkten 0:0.
+map.center.y: Inledande centralpunkt (Y-axel)
+map.center.x: Inledande centralpunkt (X-axel)
+map.marker.lng: Lon
+map.marker.lat: Lat
+map.marker.label: Etikettext
+map.marker.label.description: Det här är texten som kommer att synas på din karta
+  för denna etikett.
+map.marker.choice: Välj och fyll i endast ett av följande alternativ.
+map.marker.radius.description: Cirkelns radie i pixlar. Fyll bara i detta om du vill
+  skapa en cirkel och inte en polygon.
+map.marker.radius: Cirkelradie
+map.marker.link.description: 'Om du anger markören som direktlänk-markör, så kan man
+  genom att klicka på markören komma direkt till målsidan.'
+map.marker.link.relation.description: Välj en av relationerna nedan för att direktlänka
+  till den. Om du väljer mer än en, får bara den första effekt.
+map.marker.polygonPoints.description: Longitud och latitud för varje punkt som par
+  separerade med ett komma och delade från varandra med ett mellanslag. T.ex. 20,20
+  30,30 50,45. Tips! Använd den röda "ny punkt" markören för att få fram lon/lat.
+map.marker.polygonPoints: Polygonpunkter
+map.marker.colorOutline.description: Färgen på konturen till en cirkel eller polygon.
+  Du kan använda CSS-färger som blå, röd, gul etc, ELLER hexkoden för färgen inklusive
+  nummertecknet framför talet
+map.marker.colorOutline: Konturfärg
+map.marker.colorFill: Fyllningsfärg
+map.marker.colorFill.description: Färgen på ytan som fyller en cirkel eller polygon.
+  Du kan använda CSS-färger som blå, röd, gul etc, ELLER hexkoden för färgen inklusive
+  nummertecknet framför talet
+map.marker.opacityOutline.description: Opacitet % på konturen. Från 0 till 100%
+map.marker.opacityFill: Fyllningsopacitet
+map.marker.opacityFill.description: Opacitet % på ytan som fyller cirkeln eller polygonen.
+  Från 0 till 100% (t.ex. 50)
+pin.pinImage: Markörbild
+pin.shadow: Markörskuggbild
+pin.shadow.description: Bilden för markörens skugga. Denna bild är frivillig. Om den
+  används måste den vara bredare än markörbilden och sträcka sig till dess högra sida.
+pin.popupAnchor.description: Popup-ankarpunkten är den punkt där popuptriangeln kommer
+  vara centrerad. Motsatt till ankarmarkören så finner man den på toppen av ikonen,
+  om inte högre upp
+pin.iconAnchorX: Ankarpunkt X (i pixlar)
+pin.iconAnchorY: Ankarpunkt Y (i pixlar)
+appearance: Utseende
+functionality: Funktionalitet
+organization.and.access: Organisation och tillstånd
+pin.popupAnchorY: Popup-punkt Y (i pixlar)
+spell: Trollformel
+history: Historia

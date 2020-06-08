@@ -23,13 +23,13 @@ spell: Trollformel
 technology.science: Teknologi / Vetenskap
 tradition.ritual: Tradition / Ritual
 vehicle: Fordon
-rpg.session.report: RPG Sessions Rapport
+rpg.session.report: Sessionsrapport
 building: Byggnad
 geography: Geografi
 settlement: Bosättning
 technology: Teknologi
 tradition: Tradition
-rpg.report: RPG Rapport
+rpg.report: Sessionsrapport
 description.building: '... eller Landmärke. Under, naturliga och byggda, ruiner, fängelsehålor,
   tempel, gigantiska träd, smedjor, värdshus, slott. Allt du kan peka mot och som
   människor tycker är viktiga nog att namnge.'
@@ -50,3 +50,56 @@ description.language: De sätt som intelligenta arter kommunicerar på och utbyt
   och tankar i din värld.
 description.material: Råvaror, handelsresurser, kemiska element. Allt från mithril
   och adamantium till uran och unobtainium 2000.
+description.ethnicity: Inte arten utan folket med ett gemensamt kulturellt släktskap.
+  Inte folket i ett kungarike, utan folket som lever med samma tro och traditioner.
+description.item: Alldaglig användning, mynt, verktyg, vapen, rustning. Allt från
+  det vanligaste till unika
+description.conflict: Krig, slag, belägringar och sammandrabbningar. I regel vad som
+  händer när två sidor med spetsiga pinnar möter varandra.
+description.legend: Din världs folktro. Tänk kung Arthur, krokodiler i New Yorks kloaker
+  eller Bigfoot.
+description.prose: Haikus, dikter, noveller, kapitel från din bok snyggt uppvisade
+  och med fokus på läsbarhet.
+description.profession: Från rörmokaren till den extravaganta hackaren och legoknekten,
+  yrken definierar din världs stämning och personerna i den.
+description.organization: Kungadömen, baronier, kyrkor (organiserade religioner),
+  hemliga sällskap, arméer med skoningslösa legoknektar, riddar- och trollkarlsorder.
+  Territoriell och icke-territoriell.
+description.rank: Endors kung, Federationens främste företrädare, Admiral av Okabus
+  Fedartionsflotta, Ärkemagiker av Lobtous etc.
+description.report: Sessionsrapporter för rollspel, komihåg-anteckningar om vad som
+  hände under din session, ha en utgångspunkt när du organiserar din nästa session.
+description.settlement: Allt från den minsta by till den mest gigantiska rymdstationen
+description.species: Djur, växter, kännande eller intelligenta. Inklusive människor,
+  alver och utomjordingar
+description.vehicle: Tvåfotade dinosaurieliknande färdmedel, segelfartyg, flygande
+  piratskepp eller rymdskepp. Namngivna eller allmänna
+description.tradition: Seder, traditioner och ritualer. Skördefester, minnesdagar,
+  hemliga handskakningar och antalet pussar på varje kind.
+description.technology: Vetenskap och teknik. Från uppfinnandet av lantbruket till
+  ångmotorer och laserpistoler
+description.spell: Magiska formler, ritualer, psionicer, superkrafter!
+description.plot: Berättelsehandlingar är dina övergripande ränker, handlingar, scener,
+  beats eller vad du än kallar delarna i din berättelse. Använd dem för din prosa
+  eller översikten för din rollspelskampanj.
+description.timeline: Tidslinjer hjälper dig att berätta din världs historier och
+  beskriva händelserna som formade den.
+description.map: Kartor kan användas för att visa din världs geografi, men också som
+  ett alternativt sätt att navigera på
+description.image: De säger att en bild är värd tusen ord, alltså inte för antalet
+  ord du har skrivit, men ändå.
+description.category: Kategorier hjälper dig att organisera och dela upp ditt innehålla.
+  Som kapitel i en bok.
+description.historical.entry: Historiska noteringar eller händelser är berättelserna
+  som sätter H i historien. Det är dessa unika stunder och tider i utvecklingen av
+  din värld som formade dess nuvarande form.
+description.secret: Den dolda sanningen, viskningarna i bakgränderna, den fruktade
+  verkligheten som ska avslöjas
+religion: Religion
+country: Land
+description.religion: Organiserade religioner är specialiserade organisationer inbegripna
+  med andliga angelägenheter och ledningen av dess följare (Detta är en sekundär länk
+  till Organisationsmallen).
+description.country: Länder är specialiserade territoriala organisationer inbegripna
+  med ledningen av invånarna som bor i deras territorier (Detta är en sekundär länk
+  till Organisationsmallen).
